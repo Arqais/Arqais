@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A Rizvaul Qais</h1>
+<h1 align="center">Hi 👋, I'm A Rizvanul Qais</h1>
 <h3 align="center">Passionate In Software Engineering And Web And App Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arqais&label=Profile%20views&color=0e75b6&style=flat" alt="arqais" /> </p>
