@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A Rizvanul Qais</h1>
+<h1 align="center">Hi 👋, I'm A Rizvanul Qais (He/Him)</h1>
 <h3 align="center">Passionate In Software Engineering And Web And App Development</h3>
 
 
